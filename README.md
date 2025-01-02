@@ -8,8 +8,9 @@
 - 📨 Or for fast way just send me a Mail in Alirezaghaznavi.Tech@gmail.com
 
 ### Languages & Tools
-
+<div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
+</div>
