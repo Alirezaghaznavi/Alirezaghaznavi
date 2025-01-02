@@ -1,4 +1,4 @@
-### Hey there, I'm  Alireza. You can also Call me (Ali) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Alireza. You can also call me (Ali) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Flutter Developer
 - 💖 First Of all I love My Dreams
