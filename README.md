@@ -5,7 +5,7 @@
 - 🔭 I’m really interested about Flutter and Dart
 - 🌱 I’m currently learning Dart, Kotlin, and Python
 - 💬 Ask me anything about Flutter and Dart
-- 📨 Or for fast way just send me a email in Alirezaghaznavi.Tech@gmail.com
+- 📨 Or for fast way just send me an email in Alirezaghaznavi.Tech@gmail.com
 
 ### Languages & Tools
 <div>
